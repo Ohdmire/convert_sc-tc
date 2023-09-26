@@ -1,4 +1,4 @@
-('C:\\Users\\17500\\Desktop\\convert\\build\\t2s\\PYZ-00.pyz',
+('C:\\Users\\17500\\OneDrive\\文档\\GitHub\\convert_sc-tc\\convert_sc-tc\\build\\t2s\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\17500\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE'),
