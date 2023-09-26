@@ -15,5 +15,5 @@ for filename in filenames:
     result=converter.convert(data)
     with open(filename,"w",encoding='utf-8') as f:
         f.write(result)
-    print(result)
+        print(filename)
 input("- - -转换完成- - -")
